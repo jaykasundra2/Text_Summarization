@@ -15,5 +15,6 @@ Frameworks, Libraries, Approaches and Tutorials:
 * [Pytorch implementation of Abstractive summarization methods on top of OpenNMT](https://github.com/Iwontbecreative/Abstractive-summarization-OpenNMT)
 * [MASS from Microsoft](https://github.com/microsoft/MASS#text-summarization)
 * [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
+* [Text summarization using seq2seq and encoder-decoder recurrent networks in Keras](https://github.com/chen0040/keras-text-summarization)
 * [Text Summarization Based on TextRank in Python](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
 
