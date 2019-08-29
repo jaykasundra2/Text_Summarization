@@ -12,5 +12,8 @@ Abstractive text summarization involves generating entirely new phrases and sent
 
 Frameworks, Libraries, Approaches and Tutorials:
 * [OpenNMT](http://opennmt.net/OpenNMT-py/Summarization.html)
+* [Pytorch implementation of Abstractive summarization methods on top of OpenNMT](https://github.com/Iwontbecreative/Abstractive-summarization-OpenNMT)
 * [MASS from Microsoft](https://github.com/microsoft/MASS#text-summarization)
+* [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
 * [Text Summarization Based on TextRank in Python](https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/)
+
